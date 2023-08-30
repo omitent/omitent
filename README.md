@@ -10,19 +10,24 @@ Efficient, highly skilled and detail oriented Senior Full Stack Developer with 8
 # Main Skills #
 
 
+<a href="#"><img src="https://skillicons.dev/icons?i=rails" alt="react" height="100" title="Ruby on Rails"></a>
 <a href="#"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" height="100" title="React"></a>
-<a href="#"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular"></a>
-<a href="#"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue"></a>
-<a href="#"><img src="./assets/node.svg" alt="node" height="100" title="Node"></a>
-<a href="#"><img src="./assets/php.png" alt="php" height="100" title="PHP"></a>
-<a href="#"><img src="./assets/java-original.svg" alt="java" height="100" title="Java"></a>
 <a href="#"><img src="./assets/python-original.svg" alt="python" height="100" title="Python"></a>
+<a href="#"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular"></a>
+<a href="#"><img src="./assets/node.svg" alt="node" height="100" title="Node"></a>
+<a href="#"><img src="./assets/java-original.svg" alt="java" height="100" title="Java"></a>
+<a href="#"><img src="./assets/php.png" alt="php" height="100" title="PHP"></a>
+<a href="#"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue"></a>
 
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rails" width="65" height="65" alt="Ruby on Rails" />
+      <br>Ruby on Rails
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
@@ -36,10 +41,6 @@ Efficient, highly skilled and detail oriented Senior Full Stack Developer with 8
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rails" width="65" height="65" alt="Ruby on Rails" />
-      <br>Ruby on Rails
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nestjs" width="65" height="65" alt="NestJS" />
