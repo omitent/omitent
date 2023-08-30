@@ -145,3 +145,11 @@ Efficient, highly skilled and detail oriented Senior Full Stack Developer with 8
 
 
 </div>
+
+# Most Used Languages
+
+<p align="center">
+ <a href="https://github.com/omitent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omitent&langs_count=16&layout=compact&card_width=260" />
+ </a>
+</p>
