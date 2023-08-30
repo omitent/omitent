@@ -142,8 +142,6 @@ Efficient, highly skilled and detail oriented Senior Full Stack Developer with 8
  </tr>
 </table>
 <br><br>
-
-
 </div>
 
 # Most Used Languages
