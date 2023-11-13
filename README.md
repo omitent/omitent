@@ -3,7 +3,7 @@
 
 # Hello! 👋 Who am I? #
 <div>
-Efficient, highly skilled and detail oriented Senior Full Stack Developer with 8+ years of experience in Software Engineering. Proficient in Full Stack Web Development due to diverse hands-on experience. Demonstrated strengths in delivering successful projects from conception to deployment, with a proven track record of developing scalable, robust and user-friendly web applications. Worked with several companies of Retail, Real Estate, Healthcare and Education industry. Collaborated effectively with cross-functional teams, communicate complex technical concepts to non-technical stakeholders, and manage time effectively to meet project deadlines. Passionate about staying up-to-date with emerging trends. Seeking an opportunity to leverage my skills and experience to drive success in a dynamic and ambitious company.
+Efficient, highly skilled and detail oriented Senior Full Stack Developer with 10+ years of experience in Software Engineering. Proficient in Full Stack Web Development due to diverse hands-on experience. Demonstrated strengths in delivering successful projects from conception to deployment, with a proven track record of developing scalable, robust and user-friendly web applications. Worked with several companies of Retail, Real Estate, Healthcare and Education industry. Collaborated effectively with cross-functional teams, communicate complex technical concepts to non-technical stakeholders, and manage time effectively to meet project deadlines. Passionate about staying up-to-date with emerging trends. Seeking an opportunity to leverage my skills and experience to drive success in a dynamic and ambitious company.
 </div>
 <br/>
 
